@@ -7,3 +7,6 @@ print(x)
 
 for i in range(3):
     print(i)
+
+    x=2
+    x
